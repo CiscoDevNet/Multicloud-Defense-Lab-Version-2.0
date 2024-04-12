@@ -1,2 +1,1 @@
-# devnet-template
-Template for creating new repos in CiscoDevNet
+# Multicloud-Defense-Lab-Version-2.0
